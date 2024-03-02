@@ -1,7 +1,7 @@
 # Information System Management Note
 
 ## index
-[Software Development Methodologies](https://github.com/entrkjm/CS-portfolio/blob/main/Software_management/information_system_management.md#software-development-methodologies)
+- [Software Development Methodologies](https://github.com/entrkjm/CS-portfolio/blob/main/Software_management/information_system_management.md#software-development-methodologies)
 
 
 ## Software Development Methodologies
@@ -25,7 +25,7 @@ Methodology for software development is a set of workflow techniques and methods
 implementation, and maintaining of software systems. 
 It can guarantee that projects are finished on schedule, within budget, and with the appropriate quality. It is a crucial component of software development.
 
-#### steps 
+#### Risk analysis steps 
 - Identify hazards
 - Assess the risks
 - Control the risks
@@ -43,6 +43,6 @@ It can guarantee that projects are finished on schedule, within budget, and with
    - Types: Organic, Semi-Detached, Embedded
 
 
-# Reference
+## Reference
 [Risk Analysis](https://www.geeksforgeeks.org/software-risk-analysis/)
 [Techniques of Forecasting]([https://www.geeksforgeeks.org/software-risk-analysis/](https://www.geeksforgeeks.org/techniques-of-forecasting/)https://www.geeksforgeeks.org/techniques-of-forecasting/)
