@@ -45,4 +45,4 @@ It can guarantee that projects are finished on schedule, within budget, and with
 
 ## Reference
 - [Risk Analysis](https://www.geeksforgeeks.org/software-risk-analysis/)
-- [Techniques of Forecasting]([https://www.geeksforgeeks.org/software-risk-analysis/](https://www.geeksforgeeks.org/techniques-of-forecasting/)https://www.geeksforgeeks.org/techniques-of-forecasting/)
+- [Techniques of Forecasting](https://www.geeksforgeeks.org/techniques-of-forecasting/)
