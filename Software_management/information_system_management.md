@@ -1,7 +1,7 @@
 # Information System Management Note
 
 ## index
-[Software Development Methodologies](https://github.com/entrkjm/CS-portfolio/edit/main/Software_management/information_system_management.md#software-development-methodologies)
+[Software Development Methodologies](https://github.com/entrkjm/CS-portfolio/blob/main/Software_management/information_system_management.md#software-development-methodologies)
 
 
 ## Software Development Methodologies
