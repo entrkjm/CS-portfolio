@@ -9,7 +9,7 @@ In computer science, a process refers to the active execution of a computer prog
 Scheduling plays a crucial role across various computing environments, particularly in determining which programs will utilize the CPU. 
 The Operating System (OS) is responsible for managing this task, offering diverse configurations for program execution.
 
-![image](/images/Process-Scheduler.png)
+![image](/OS/images/Process-Scheduler.png)
 
 ### Process Scheduling
 Process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process based on a particular strategy.
