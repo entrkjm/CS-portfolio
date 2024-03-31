@@ -18,7 +18,7 @@ EAI represents Enterprise Application Integration
 # 2. ESB
 An enterprise service bus (ESB) is an architectural pattern whereby a centralized software component performs integrations between applications.
 
-![image](images/esb_figures.png)
+![image](images/esb-figure.png)
 
 # 3. SOA
 Service-oriented architecture (SOA) is a method of software development that uses software components called services to create business applications.
